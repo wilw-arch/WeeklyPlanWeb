@@ -1,0 +1,5 @@
+{
+  "name": "Weekly Plan & Review Master",
+  "description": "A digital implementation of the Weekly Plan & Review spreadsheet. Features data persistence, automatic calculations for habit tracking, and financial/metric consolidation.",
+  "requestFramePermissions": []
+}
